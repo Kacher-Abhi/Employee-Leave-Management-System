@@ -15,4 +15,3 @@ Manager and HR can search for leaves applied on specific date, and only the leav
 <h2><a href="https://pypi.org/project/easygui/" target="_blank" >pip install easygui</a></h2>
 <h2><a href="https://pypi.org/project/PythonTurtle/" target="_blank">pip install PythonTurtle</a></h2>
 <h2><a href = "https://pypi.org/project/db-sqlite3/" target="_blank">pip install db-sqlite3</a><h2>
-
